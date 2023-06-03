@@ -12,8 +12,8 @@
 
 # Content
 - [Обо мне](#about)
-- [Опыт работы](#career)
 - [Мой стек и навыки](#stack_skills)
+- [Опыт работы](#career)
 - [Личные достижения](#personal-achievements)
 
 # About
@@ -28,6 +28,28 @@
 
 [К оглавлению](#content)
 
+
+# Stack_skills
+
+<h3>Python3 🐍 (/django/)</h3>
+   
+<h3>PostgreSQL 🐘</h3>
+
+<h3>OOP,Algorithms and Data structures 💻</h3>
+
+<h3>HTML, CSS 🌐h3>
+
+<h3>English 🇬🇧</h3>
+
+- C-1 Advanced.
+
+<h3>Korean 🇰🇷</h3>
+
+- B-2 Upper-intermediate
+    
+[К оглавлению](#content)
+ 
+ 
 # Career
 <a href=https://www.instagram.com/ils_ykt/><b>- Интеллектуально-языковая школа в г.Якутск:</b></a>
 <p>
@@ -76,25 +98,6 @@
 
 [К оглавлению](#content)
 
-# Stack_skills
-
-<h3>Python3 🐍 (/django/)</h3>
-   
-<h3>PostgreSQL 🐘</h3>
-
-<h3>OOP,Algorithms and Data structures 💻</h3>
-
-<h3>HTML, CSS 🌐h3>
-
-<h3>English 🇬🇧</h3>
-
-- C-1 Advanced.
-
-<h3>Korean 🇰🇷</h3>
-
-- B-2 Upper-intermediate
-    
-[К оглавлению](#content)
  
 # Personal_achievements
 ДИСЦИПЛИНА - ФОКУС - ЦЕЛИ - УСПЕХ
