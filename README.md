@@ -141,15 +141,15 @@
  Новостной портал где Вы можете пройти упращенную регистрацию с помощью Google (Google API), либо обычным способом. В этом сайте вы можете просматривать, добавлять и удалять новость либо статьую, так же комментировать и смотреть рейтинги авторов.
  </p>
 
-<a href=https://github.com/egorovarturxx/TelegramBot/><b>- TelegramBot (ChatGPT)</b></a>
+<a href=https://github.com/egorovarturxx/TelegramBot/><b>- TelegramBot</b></a>
  <p> Телеграм бот который поможет вам конвертировать любую сумму на один из выбранных валют (доллар, рубль, евро).
  </p>
  
- <a href=https://github.com/egorovarturxx/Sea-battle/><b>- Игра Морской Бой (ChatGPT)</b></a>
+ <a href=https://github.com/egorovarturxx/Sea-battle/><b>- Игра Морской Бой</b></a>
  <p> Традиционная игра Морской бой, где вы можете играть против бота.
  </p>
  
- <a href=https://github.com/egorovarturxx/XO/><b>- Игра Крестики нолики (ChatGPT)</b></a>
+ <a href=https://github.com/egorovarturxx/XO/><b>- Игра Крестики нолики</b></a>
  <p> Начало моего пути к становлению программиста, игра крестики нолики в которую вы сможете поиграть с другом.
  </p>
 
