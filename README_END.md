@@ -23,7 +23,7 @@ If you are in this page, then it's more likely that you are currious on who am I
 <p>I am from Yakutia, from the coldest inhabitat in the World (-50c every winter).  For a long time have studied in Canada and South Korea. Currently in Thailand, Phuket, ready to move to any country and city.</p>
 <p>Probably like many software developer, I dreamed of becoming a software developer because of the games.</p> 
 <p>Looking back, I started coding when I was 15 years old, created a couple websites related to (Dota, Xbox, local news website).</p>
-<p>Howeber, my parents did not see future in programming (I am from small village) that is why I stopped chasing my dream of becoming software developer.</p>
+<p>However, my parents did not see future in programming (I am from small village) that is why I stopped chasing my dream of becoming software developer, but I am not blaming them.</p>
 <p>and now I am back, chasing my dream of becoming a software developers.</p>
 
 <div><b>Education:</b></div>
