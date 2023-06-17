@@ -22,7 +22,7 @@ egorovarturxx@gmail.com📧<br>
 - ILAC (Международная языковая академия Канады) Английский язык. 2012-2013. Канада, г. Торонто.
 - SkillFactory, Интенсив «Python разработчик» 2023.
 
-[К оглавлению](#content)
+
 
 
 # Stack_skills
@@ -45,7 +45,7 @@ egorovarturxx@gmail.com📧<br>
 
 - B-2 Upper-intermediate
     
-[К оглавлению](#content)
+
 
 # Projects
 <a href=https://github.com/egorovarturxx/MarketPlace/><b>- Online Market place</b></a>
@@ -74,7 +74,7 @@ egorovarturxx@gmail.com📧<br>
  <p> Начало моего пути к становлению программиста, игра крестики нолики в которую вы сможете поиграть с другом.
  </p>
 
-[К оглавлению](#content)
+
 
 # Career
 
@@ -94,7 +94,7 @@ egorovarturxx@gmail.com📧<br>
 
 С 14 лет создавал сайты по темам Xbox360, Playstation3, Dota.
  
-[К оглавлению](#content)
+
 
 # Personal achievements 
 
