@@ -91,6 +91,8 @@ egorovarturxx@gmail.com📧<br>
 
 <a href=https://www.instagram.com/wokcafeykt/><b>- Ресторан "Wok Cafe" в г.Якутск:</b></a>
  <p> Менеджер ресторана. (01.2018-04.2018) </p>
+
+С 14 лет создавал сайты по темам Xbox360, Playstation3, Dota.
  
 [К оглавлению](#content)
 
