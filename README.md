@@ -7,7 +7,7 @@
 
 
 # About me
-![3x4](https://github.com/egorovarturxx/Hello-its-me-/assets/122422490/19f7533d-4b75-4030-9ca2-73334f98a4ad)<br>
+<![3x4 — копия](https://github.com/egorovarturxx/Hello-its-me-/assets/122422490/ddc17582-b134-4bfa-9f53-b31b03a2254f)br>
 Егоров Артур Алексеевич. 18.04.1996г (27 лет).<br>
 г. Якутск. Республики (Саха) Якутии.<br>
 +79241769969📲<br>
