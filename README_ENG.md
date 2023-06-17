@@ -46,7 +46,7 @@ If you are in this page, then it's more likely that you are currious on who am I
 
 <h3>Linux, MacOS, Windows user💻</h3>
 
-<h3>HTML, CSS 🌐</h3>
+<h3>HTML, CSS, GIT 🌐</h3>
 
 <h3>English 🇬🇧</h3>
 
