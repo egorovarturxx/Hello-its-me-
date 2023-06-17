@@ -86,7 +86,7 @@
 
 [К оглавлению](#content)
 
-# Personal_achievements
+# Personal-achievements 
 ДИСЦИПЛИНА - ФОКУС - ЦЕЛИ - УСПЕХ
 
 - Похудел на 25 кг за 3 месяца.
