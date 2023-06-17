@@ -38,11 +38,13 @@ If you are in this page, then it's more likely that you are currious on who am I
 
 # Stack_skills
 
-<h3>Python3 🐍 (/django/)</h3>
+<h3>Python3 🐍 (/django/NumPy/Pandas/matplotlib/OpenCV)</h3>
    
-<h3>PostgreSQL 🐘</h3>
+<h3>PostgreSQL 🐘 Excel</h3>
 
 <h3>OOP,Algorithms and Data structures 💻</h3>
+
+<h3>Linux, MacOS, Windows user💻</h3>
 
 <h3>HTML, CSS 🌐</h3>
 
@@ -105,6 +107,12 @@ Managed team members, stress-resistant, able to solve problems.
  
  
 # Career
+
+<b>- SysAdmin in military.</b>
+<p>
+Systems administrator in military base, worked with BigData.  
+</p>
+
 <a href=https://www.instagram.com/ils_ykt/><b>- "Intellectual-Language school" in Yakutsk city</b></a>
 <p>Founded an Intellectual-language school, where me and other teacher taught to student foreign languages and intellectual sports games.  (01.2021-09.2022) </p>
 
