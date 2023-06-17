@@ -37,7 +37,7 @@
 
 # Stack_skills
 
-<h3>Python3 🐍 (/django/NumPy/Pandas/matplotlib/OpenCV)</h3>
+<h3>Python3 🐍 (/django/NumPy/Pandas/matplotlib/docker/OpenCV)</h3>
    
 <h3>PostgreSQL 🐘 Excel </h3>
 
