@@ -1,4 +1,4 @@
-![photo_2023-06-03_14-14-45](https://github.com/egorovarturxx/Hello-its-me-/assets/122422490/46418c02-1433-430f-bc55-707bee3ac8f4)
+
 
 # Content
 - [Обо мне](#about)
@@ -11,12 +11,12 @@
 
 
 # About
-Егоров Артур Алексеевич. 18.04.1996г (27 лет).<br>
+<p><img![photo_2023-06-03_14-14-45](https://github.com/egorovarturxx/Hello-its-me-/assets/122422490/46418c02-1433-430f-bc55-707bee3ac8f4)  class="rightpic">Егоров Артур Алексеевич. 18.04.1996г (27 лет).<br>
 г. Якутск. Республики (Саха) Якутии.<br>
 +79241769969📲<br>
 egorovarturxx@gmail.com📧<br>
 Соц сети:
-<a href=https://www.instagram.com/egorovarturxx/><b>Инстаграмм</b></a>
+<a href=https://www.instagram.com/egorovarturxx/><b>Инстаграмм</b></a></p>
 
 <h2><b>Образование:</b></h2>
 
