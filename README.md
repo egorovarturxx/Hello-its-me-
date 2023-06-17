@@ -45,7 +45,7 @@
 
 <h3>Linux, MacOS, Windows  🖥 </h3>
 
-<h3>HTML, CSS 🌐</h3>
+<h3>HTML, CSS, GIT 🌐</h3>
 
 <h3>English 🇬🇧</h3>
 
