@@ -1,7 +1,7 @@
 
 
 # Content
- - [Обо мне](#about) - [Мой стек и навыки](#stack_skills) - [Мои проекты](#projects) - [Опыт работы](#career) - [Личные достижения](#personal-achievements)
+ -[Обо мне](#about) - [Мой стек и навыки](#stack_skills) - [Мои проекты](#projects) - [Опыт работы](#career) - [Личные достижения](#personal-achievements)
 
 
 
