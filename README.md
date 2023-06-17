@@ -1,4 +1,4 @@
-# Hello-its-me-
+![image](https://github.com/egorovarturxx/Hello-its-me-/assets/122422490/889a466f-f69a-4673-99b0-dd3289b36169)# Hello-its-me-
 ![photo_2023-06-03_14-14-45](https://github.com/egorovarturxx/Hello-its-me-/assets/122422490/46418c02-1433-430f-bc55-707bee3ac8f4)
 
 <p>
@@ -25,6 +25,8 @@
 <p>С 14 лет начал создавать сайты по темам Xbox 360 и Playstation 3, Dota.</p>
 <p>Я поставил себе цель стать сильным программистом. Давайте знакомиться!</p>
 <a href=https://www.instagram.com/egorovarturxx/><b>Мой инстаграмм</b></a>
+<p>+79241769969📲.</p>
+<p>egorovarturxx@gmail.com📧</p>
 
 <h2><b>Образование:</b></h2>
 
