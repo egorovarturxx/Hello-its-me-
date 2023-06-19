@@ -27,15 +27,15 @@ egorovarturxx@gmail.com📧<br>
 
 # Stack_skills
 
-<h3>Python3 🐍 (/django/NumPy/Pandas/matplotlib/docker/OpenCV)</h3>
+<h3>Python3 🐍 (/django/NumPy/Pandas/matplotlib/OpenCV)</h3>
    
-<h3>PostgreSQL 🐘 Excel </h3>
+<h3>PostgreSQL 🐘, docker 🐋, GIT, Excel </h3>
 
 <h3>OOП, Алгоритмы и Структуры данных 💻</h3>
 
 <h3>Linux, MacOS, Windows  🖥 </h3>
 
-<h3>HTML, CSS, GIT 🌐</h3>
+<h3>HTML, CSS 🌐</h3>
 
 <h3>English 🇬🇧</h3>
 
