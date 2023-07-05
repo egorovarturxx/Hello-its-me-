@@ -29,11 +29,11 @@ egorovarturxx@gmail.com📧<br>
 
 <h3>Python3 🐍 (/django/NumPy/Pandas/matplotlib/OpenCV)</h3>
    
-<h3>PostgreSQL 🐘, docker 🐋, GIT, Excel </h3>
+<h3>PostgreSQL 🐘, docker 🐋, GIT, Ansible </h3>
 
 <h3>Сетевое администратирование, OOП, Алгоритмы и Структуры данных 💻</h3>
 
-<h3>Linux Ubuntu, MacOS, Windows  🖥 </h3>
+<h3>Linux Ubuntu, MacOS, Windows 🖥 </h3>
 
 <h3>HTML, CSS 🌐</h3>
 
