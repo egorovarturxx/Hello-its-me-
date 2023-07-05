@@ -40,11 +40,11 @@ If you are in this page, then it's more likely that you are currious on who am I
 
 <h3>Python3 🐍 (/django/NumPy/Pandas/matplotlib/docker/OpenCV)</h3>
    
-<h3>PostgreSQL 🐘 Excel</h3>
+<h3>PostgreSQL 🐘, Docker, Ansible</h3>
 
 <h3>System Administration, OOP,Algorithms and Data structures 💻</h3>
 
-<h3>Linux Ubuntu, MacOS, Windows user💻</h3>
+<h3>Linux Ubuntu, MacOS, Windows, MsOffice💻</h3>
 
 <h3>HTML, CSS, GIT 🌐</h3>
 
